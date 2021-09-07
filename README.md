@@ -24,3 +24,13 @@ Goa is a **land that redefines holidays**, with its exquisite mix of sun, surf, 
   * Cookies
 
 [AboutMe](https://github.com/karna1244/assignment2-Nampally/blob/main/AboutMe.md)
+
+# Table
+
+Table with best foods in Marryville.
+
+| Foods  |   Location    | Price |
+|   ---  |   ---         |  ---  |
+| Nuggets|   Harvey      |  $5   |
+| Pizza  |   PizzaHut    |  $6   |
+| Tuna   |   Walmart     |  $7   |
