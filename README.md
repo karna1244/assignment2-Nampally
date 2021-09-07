@@ -11,3 +11,15 @@ Goa is a **land that redefines holidays**, with its exquisite mix of sun, surf, 
    2. Wait for flight 
    3. Board the Flight
 3. Complete your check-out process in Hyderabad
+
+* Clothes
+  * Sweatshirt
+  * Shoes
+* Cosmetics
+  * Perfume
+  * Body lotions
+* Cash
+* Snacks
+  * French Fries
+  * Cookies
+
