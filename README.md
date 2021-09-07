@@ -34,3 +34,12 @@ Table with best foods in Marryville.
 | Nuggets|   Harvey      |  $5   |
 | Pizza  |   PizzaHut    |  $6   |
 | Tuna   |   Walmart     |  $7   |
+
+-----
+# My favourite Quotes
+>"Not giving a F is so key."-by 
+*Mark Mason* <br>
+> "No pain, No gain." -by
+*Jane Fonda*
+
+
